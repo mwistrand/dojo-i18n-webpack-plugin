@@ -1,0 +1,9 @@
+{
+	"name": "dojo-i18n-webpack-plugin-example",
+	"globalDevDependencies": {
+		"cldr-data": "github:mwistrand/DefinitelyTyped/cldr-data/cldr-data.d.ts#72a852d18fe51b00441200641977a4051f304f3b",
+		"cldr": "github:DefinitelyTyped/DefinitelyTyped/cldr.js/cldr.js.d.ts#7de6c3dd94feaeb21f20054b9f30d5dabc5efabd",
+		"globalize": "github:mwistrand/DefinitelyTyped/globalize/globalize.d.ts#927a601f1613101325505e5936784e44cedb029c",
+		"symbol-shim": "github:dojo/typings/custom/symbol-shim/symbol-shim.d.ts#9a0185f465a3febe2bb1ff3f1210f43e5f96c5d2"
+	}
+}

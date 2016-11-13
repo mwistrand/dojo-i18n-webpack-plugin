@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/mwistrand/DefinitelyTyped/927a601f1613101325505e5936784e44cedb029c/globalize/globalize.d.ts",
+    "raw": "github:mwistrand/DefinitelyTyped/globalize/globalize.d.ts#927a601f1613101325505e5936784e44cedb029c",
+    "typings": "https://raw.githubusercontent.com/mwistrand/DefinitelyTyped/927a601f1613101325505e5936784e44cedb029c/globalize/globalize.d.ts"
+  }
+}

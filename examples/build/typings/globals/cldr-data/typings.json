@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/mwistrand/DefinitelyTyped/72a852d18fe51b00441200641977a4051f304f3b/cldr-data/cldr-data.d.ts",
+    "raw": "github:mwistrand/DefinitelyTyped/cldr-data/cldr-data.d.ts#72a852d18fe51b00441200641977a4051f304f3b",
+    "typings": "https://raw.githubusercontent.com/mwistrand/DefinitelyTyped/72a852d18fe51b00441200641977a4051f304f3b/cldr-data/cldr-data.d.ts"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dojo-i18n-webpack-plugin-example",
+  "version": "2.0.0-pre",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.24.1",
+    "ts-loader": "^1.2.0",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "dojo-i18n": "^2.0.0-alpha.1"
+  }
+}
