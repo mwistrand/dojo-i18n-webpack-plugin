@@ -25,8 +25,7 @@ export default class I18nPlugin {
 
 	apply(compiler: any) {
 		compiler.apply(new VirtualCommonJsModulePlugin({
-			moduleName: `${this.i18nModuleId}-build/cldr/load`,
-			replaceModulePattern: `${this.i18nModuleId}/cldr/load`,
+			moduleName: `${this.i18nModuleId}/cldr/load`,
 			source: loadTemplate(this)
 		}));
 	}
